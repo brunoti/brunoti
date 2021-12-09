@@ -1,19 +1,5 @@
-<h1 align="center">Hi 👋, I'm bruno</h1>
-<h3 align="center">a guy who loves creativity and automation through software development</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoti&label=Profile%20views&color=0e75b6&style=flat" alt="brunoti" /> </p>
-
-- 🔭 I’m currently working at [magalu](https://magalu.com.br)
-
-- 🌱 I’m currently learning **elixir and how to manage side projects**
-
-- 📝 i write code using [neovim](https://neovim.io/)
-
-- 🖥 can't live without **tmux**
-
-- 💬 Ask me about **javascript, functional programming, react, linux, life automation and everything related**
-
-- 📫 How to reach me **brunohdbass@gmail.com**
+<p align="center"><img src="https://i.ibb.co/gFVvpqw/ezgif-com-gif-maker.webp" alt="ezgif-com-gif-maker" border="0"></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
