@@ -22,6 +22,7 @@ I'm a Full-Stack Engineer building exceptional web & mobile experiences with Jav
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Hono](https://img.shields.io/badge/hono-%23E36002.svg?style=for-the-badge)
 ![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge)
+![oRPC](https://img.shields.io/badge/oRPC-%232596BE.svg?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -68,12 +69,6 @@ A comprehensive UI component system with extensive documentation and testing.
 - Storybook documentation
 - 98% test coverage with Jest and Testing Library
 - Theme customization and accessibility compliance
-
-## 📝 Latest Articles
-
-- [Using Hono with SvelteKit: Full type-safety with RPC](https://dev.to/bop/using-hono-with-sveltekit-full-type-safety-with-rpc-2h7)
-- [Adding Dependencies on Clojure Projects the Node Way](https://dev.to/bop/adding-dependencies-on-clojure-project-the-node-way-a-small-intro-to-neil-55n)
-- [Making shadow-cljs REPL's More Interactive](https://dev.to/bop/making-shadow-cljs-repls-more-interactive-4lhe)
 
 ## 📊 GitHub Stats
 
